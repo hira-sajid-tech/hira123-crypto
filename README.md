@@ -26,23 +26,23 @@ Applied exposure to core AI/ML concepts and workflows.
 
 ## EDUCATION
 
-**Bachelors in Computer Science (BSCS)**
+### Bachelors in Computer Science
 
-2023– Present
-KICSIT, Rawalpindi
-CGPA: 3.63 / 4.0 (7th Semester completed)
+**2023 – Present**  
+KICSIT, Rawalpindi  
+**CGPA:** 3.63 / 4.00 *(7th Semester Completed)*
 
-**FSC (Pre-Medical)**
+### FSC (Pre-Medical)
 
-2020 – 2022
-KRL Model College
-Percentage: 88.73%
+**2020 – 2022**  
+KRL Model College  
+**Percentage:** 88.73%
 
-**Matriculation**
+### Matriculation
 
-2018 – 2020
-KRL Model College
-Percentage: 95.18%
+**2018 – 2020**  
+KRL Model College  
+**Percentage:** 95.18%
 
 ## ACHIEVEMENTS
 
