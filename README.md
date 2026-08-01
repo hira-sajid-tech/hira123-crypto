@@ -1,16 +1,94 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**hira123-crypto/hira123-crypto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hira Sajid
 
-Here are some ideas to get you started:
+**Aspiring AI Engineer** | Ex-Premedical → Computer Science | Web · Mobile · AI/ML
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| [GitHub](https://github.com/hira-sajid-tech)
+
+📧 hirasajid028@gmail.com
+
+---
+
+## ABOUT ME
+
+Made the switch from a premedical background into Computer Science — now building toward a career as an AI Engineer. Curious by nature, I like exploring a wide range of interests, and I'm driven to grow fast (still working on the patience part 😅).
+
+---
+
+## EXPERIENCE
+
+**Front-End Development** — *2 Months (Experience Letter)*
+Hands-on experience building interfaces and components using React JS.
+
+**AI/ML** — *6 Weeks*
+Applied exposure to core AI/ML concepts and workflows.
+
+---
+
+## EDUCATION
+
+**Bachelors in Computer Science (BSCS)**
+2022 – Present
+KICSIT, Rawalpindi
+**CGPA:** 3.63 / 4.0 *(7th Semester completed)*
+
+**FSc (Pre-Medical)**
+2020 – 2022
+KRL Model College
+**Percentage:** 88.73%
+
+**Matriculation**
+2018 – 2020
+KRL Model College
+**Percentage:** 95.18%
+
+---
+
+## ACHIEVEMENTS
+
+- 🏆 Scored **95.18%** in Matriculation
+- 🏆 Scored **88.73%** in FSc (Pre-Medical)
+- 🎓 Maintaining a strong **3.63/4.0 CGPA** through 7th semester of BSCS
+- 🏅 Certified in **Programming Competition**
+- 🗣️ **English Debate Certificate** holder — competitive debating background
+- 🤖 Completed **AI/ML Certification**
+- 💼 **LinkedIn Certification** holder
+
+---
+
+## SKILLS
+
+**Languages & Frameworks:** React JS · Kotlin · Python
+**Currently Learning:** LangChain · Ollama · FastAPI · Retrieval-Augmented Generation (RAG)
+**Tools:** Git · VS Code · Canva · Overleaf (LaTeX)
+**Soft Skills:** English Debating · Client Communication · Team Collaboration
+
+---
+
+## FEATURED PROJECTS
+
+**🤖 RAG Document Q&A System** *(in progress)*
+Full-stack AI application answering questions from documents using LangChain, Ollama, Chroma, and FastAPI — with React JS web and Kotlin mobile clients.
+
+**💻 DevCollab**
+Real-time collaborative code editor built with React, Node.js, and Socket.io.
+
+**🛍️ Online Bookstore**
+Web application built with React JS.
+
+**📝 Smart Note App**
+Mobile application built with Kotlin.
+
+---
+
+## CERTIFICATIONS
+
+- AI/ML Certificate
+- Programming Competition Certificate
+- English Debate Certificate
+- LinkedIn Certificate
+
+---
+
+*Learning by building — every project here is a step toward becoming an AI Engineer.*
