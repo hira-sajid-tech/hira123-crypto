@@ -12,7 +12,7 @@ Computer Science Student | AI & Machine Learning | Computer Vision | Web-Develop
 
 ## ABOUT ME
 
-Computer Science undergraduate with a passion for Artificial Intelligence, Machine Learning, and Full-Stack Development. Experienced in building web and AI-powered applications using React, Python, Kotlin, and MongoDB. Currently exploring Large Language Models (LLMs), Lang-Chain, Retrieval-Augmented Generation (RAG), and Computer Vision while continuously learning and building impactful projects.
+Computer Science undergraduate with a passion for Artificial Intelligence, Machine Learning, and Web-Development. Experienced in building web and AI-powered applications using React, Python, Kotlin, and MongoDB. Currently exploring Large Language Models (LLMs), Lang-Chain, Retrieval-Augmented Generation (RAG), and Computer Vision while continuously learning and building impactful projects.
 
 -----
 
