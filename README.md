@@ -58,12 +58,14 @@ KRL Model College
 
 ## SKILLS
 
-**Languages & Frameworks:** React JS · Kotlin · Python|
-**Currently Learning:** LangChain · Ollama · FastAPI · Retrieval-Augmented Generation (RAG)|
-**Tools:** Git · VS Code · Canva · Overleaf (LaTeX)|
-**Soft Skills:** English Debating · Client Communication · Team Collaboration
+### Programming Languages
+- Python, XML, JavaScript, HTML, CSS, Latex(for academic writings)
 
----
+### Developer Tools
+- Git, GitHub, VS Code, Google Collab, Overleaf (LaTeX), Jupiter Notebook, Anaconda, Android Studio
+
+### Soft Skills
+- Client Communication, Team Collaboration, English Debating, Time Management
 
 ## FEATURED PROJECTS
 
