@@ -12,8 +12,7 @@
 
 ## ABOUT ME
 
-Made the switch from a premedical background into Computer Science — now building toward a career as an AI Engineer. Curious by nature, I like exploring a wide range of interests, and I'm driven to grow fast 
----
+Made the switch from a premedical background into Computer Science, now building toward a career as an AI Engineer. Curious by nature, I like exploring a wide range of interests, and I'm driven to grow fast 
 
 ## EXPERIENCE
 
@@ -58,9 +57,9 @@ KRL Model College
 
 ## SKILLS
 
-**Languages & Frameworks:** React JS · Kotlin · Python
-**Currently Learning:** LangChain · Ollama · FastAPI · Retrieval-Augmented Generation (RAG)
-**Tools:** Git · VS Code · Canva · Overleaf (LaTeX)
+**Languages & Frameworks:** React JS · Kotlin · Python|
+**Currently Learning:** LangChain · Ollama · FastAPI · Retrieval-Augmented Generation (RAG)|
+**Tools:** Git · VS Code · Canva · Overleaf (LaTeX)|
 **Soft Skills:** English Debating · Client Communication · Team Collaboration
 
 ---
