@@ -78,7 +78,7 @@ KRL Model College
 ** RAG Document Q&A System** *(in progress)*
 Full-stack AI application answering questions from documents using LangChain, Ollama, Chroma, and FastAPI — with React JS web and Kotlin mobile clients.
 
-** DevCollab**
+** DevCollab** *(in progress)*
 Real-time collaborative code editor built with React, Node.js, and Socket.io.
 
 ** Online Bookstore**
