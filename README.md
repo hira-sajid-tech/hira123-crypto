@@ -2,7 +2,7 @@
 
 # Hira Sajid
 
-Computer Science Student | AI/ML • Computer Vision • Full-Stack Development
+Computer Science Student | AI & Machine Learning | Computer Vision | Web-Development | Mobile-App Development
 
 | [GitHub](https://github.com/hira-sajid-tech)
 
@@ -12,7 +12,9 @@ Computer Science Student | AI/ML • Computer Vision • Full-Stack Development
 
 ## ABOUT ME
 
-Computer Science undergraduate with a passion for Artificial Intelligence, Machine Learning, and Full-Stack Development. Experienced in building web and AI-powered applications using React, Python, Kotlin, and MongoDB. Currently exploring Large Language Models (LLMs), LangChain, Retrieval-Augmented Generation (RAG), and Computer Vision while continuously learning and building impactful projects.
+Computer Science undergraduate with a passion for Artificial Intelligence, Machine Learning, and Full-Stack Development. Experienced in building web and AI-powered applications using React, Python, Kotlin, and MongoDB. Currently exploring Large Language Models (LLMs), Lang-Chain, Retrieval-Augmented Generation (RAG), and Computer Vision while continuously learning and building impactful projects.
+
+-----
 
 ## EXPERIENCE
 
@@ -44,10 +46,12 @@ KRL Model College
 KRL Model College  
 **Percentage:** 95.18%
 
+------
+
 ## ACHIEVEMENTS
 
 - 🏆 Scored **95.18%** in Matriculation
-- 🏆 Scored **88.73%** in FSc (Pre-Medical)
+- 🏆 Scored **88.73%** in FSC(Pre-Medical)
 - 🎓 Maintaining a strong **3.63/4.0 CGPA** through 7th semester of BSCS
 - 🏅 Certified in **Programming Competition**
 - 🗣️ **English Debate Certificate** holder — competitive debating background
@@ -67,6 +71,8 @@ KRL Model College
 ### Soft Skills
 - Client Communication, Team Collaboration, English Debating, Time Management
 
+  -----
+
 ## FEATURED PROJECTS
 
 ** RAG Document Q&A System** *(in progress)*
@@ -80,6 +86,8 @@ Web application built with React JS.
 
 ** Smart Note App**
 Mobile application built with Kotlin.
+
+-----
 
 
 
