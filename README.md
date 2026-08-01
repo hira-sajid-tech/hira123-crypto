@@ -2,7 +2,7 @@
 
 # Hira Sajid
 
-**Aspiring AI Engineer** | Ex-Premedical → Computer Science | Web · Mobile · AI/ML
+Computer Science Student | AI/ML • Computer Vision • Full-Stack Development
 
 | [GitHub](https://github.com/hira-sajid-tech)
 
@@ -12,7 +12,7 @@
 
 ## ABOUT ME
 
-Made the switch from a premedical background into Computer Science, now building toward a career as an AI Engineer. Curious by nature, I like exploring a wide range of interests, and I'm driven to grow fast 
+Computer Science undergraduate with a passion for Artificial Intelligence, Machine Learning, and Full-Stack Development. Experienced in building web and AI-powered applications using React, Python, Kotlin, and MongoDB. Currently exploring Large Language Models (LLMs), LangChain, Retrieval-Augmented Generation (RAG), and Computer Vision while continuously learning and building impactful projects.
 
 ## EXPERIENCE
 
